@@ -1,5 +1,5 @@
 # Ciao, sono Davide Calella 👋
-## Studente di Ingegneria Informatica @ Politecnico di Bari
+## Ingegneria Informatica @ Politecnico di Bari
 
 Sono uno studente di Ingegneria Informatica presso il Politecnico di Bari.  
 Ho iniziato a programmare durante la scuola e, nel tempo, ho portato avanti diversi progetti personali e universitari che mi hanno permesso di consolidare la mia passione per lo sviluppo software.  
