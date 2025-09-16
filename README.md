@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ciao, sono Davide Calella 👋
+## Studente di Ingegneria Informatica @ Politecnico di Bari
 
-<!--
-**DavideC02/DavideC02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ono uno studente di Ingegneria Informatica presso il Politecnico di Bari.  
+Ho iniziato a programmare durante la scuola e, nel tempo, ho portato avanti diversi progetti personali e universitari che mi hanno permesso di consolidare la mia passione per lo sviluppo software.  
+Il mio percorso mi ha dato l’opportunità di lavorare sia su progetti web full-stack sia su applicazioni lato sistema, approfondendo allo stesso tempo l’uso di strumenti di versionamento e ambienti operativi diversi.    
 
-Here are some ideas to get you started:
+🌍 Vivo a Bari, Italia  
+✉️ Puoi contattarmi tramite Linkedin
+🚀 Attualmente sto lavorando a progetti universitari e personali di sviluppo web e sistemistica  
+🧠 Ho realizzato piccoli progetti full-stack e di laboratorio  
+🤝 Sono aperto a collaborazioni su **Sviluppo Web, Programmazione e IT**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguaggi e Framework
+JavaScript • Node.js • React.js • Express  
+Python • Java • C++  
+HTML5 • CSS3 • Bootstrap  
+Git • Windows • Linux  
