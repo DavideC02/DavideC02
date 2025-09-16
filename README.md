@@ -6,8 +6,8 @@ Ho iniziato a programmare durante la scuola e, nel tempo, ho portato avanti dive
 Il mio percorso mi ha dato l’opportunità di lavorare sia su progetti web full-stack sia su applicazioni lato sistema, approfondendo allo stesso tempo l’uso di strumenti di versionamento e ambienti operativi diversi.    
 
 🌍 Vivo a Bari, Italia  
-✉️ Puoi contattarmi tramite Linkedin
-🚀 Attualmente sto lavorando a progetti universitari e personali di sviluppo web
+✉️ Puoi contattarmi tramite Linkedin<br>
+🚀 Attualmente sto lavorando a progetti universitari e personali di sviluppo web<br>
 🧠 Ho realizzato piccoli progetti full-stack e di laboratorio  
 🤝 Sono aperto a collaborazioni su **Sviluppo Web, Programmazione e IT**  
 
