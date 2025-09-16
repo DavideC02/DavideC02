@@ -12,7 +12,4 @@ Il mio percorso mi ha dato l’opportunità di lavorare sia su progetti web full
 🤝 Sono aperto a collaborazioni su **Sviluppo Web, Programmazione e IT**  
 
 ### Linguaggi e Framework
-JavaScript • Node.js • React.js • Express  
-Python • Java • C++  
-HTML5 • CSS3 • Bootstrap  
-Git • Windows • Linux  
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,python,java,cpp,html,css,bootstrap,git,linux,windows&theme=light)](https://skillicons.dev)
