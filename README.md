@@ -8,7 +8,6 @@ Il mio percorso mi ha dato l’opportunità di lavorare sia su progetti web full
 🌍 Vivo a Bari, Italia  
 ✉️ Puoi contattarmi tramite Linkedin<br>
 🚀 Attualmente sto lavorando a progetti universitari e personali di sviluppo web<br>
-🧠 Ho realizzato piccoli progetti full-stack e di laboratorio  
 🤝 Sono aperto a collaborazioni su **Sviluppo Web, Programmazione e IT**  
 
 ### Linguaggi e Framework
