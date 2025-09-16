@@ -12,4 +12,4 @@ Il mio percorso mi ha dato l’opportunità di lavorare sia su progetti web full
 🤝 Sono aperto a collaborazioni su **Sviluppo Web, Programmazione e IT**  
 
 ### Linguaggi e Framework
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,python,java,cpp,HTML5,css,bootstrap,vscode,express,opencv,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,python,java,cpp,HTML,css,bootstrap,vscode,express,opencv,tensorflow)](https://skillicons.dev)
